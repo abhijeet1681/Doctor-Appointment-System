@@ -2,7 +2,7 @@
 
 open terminal 
 
-git clone 
+git clone https://github.com/abhijeet1681/Doctor-Appointment-System.git 
 
 npm i
 
